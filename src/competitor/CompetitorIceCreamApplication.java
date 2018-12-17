@@ -1,4 +1,5 @@
-package competitor;//      Create the competitor package and inside of it the competitor.CompetitorIceCreamApplication class and write the following
+package competitor;
+//      Create the competitor package and inside of it the competitor.CompetitorIceCreamApplication class and write the following
 // instructions in its main method:
 //      Create both a shop.ConeIceCream and a shop.CupIceCream and check whether you can use the getFlavor or getTopping methods.
 // It doesn’t work because the competitor.CompetitorIceCreamApplication is in a different package and it also does not extend from
